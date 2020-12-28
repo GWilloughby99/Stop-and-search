@@ -117,10 +117,21 @@ ethnicityyearly <- wmyearlyoct19to20 %>%
 ethnicityyearly %>%
   count(Ethnicity, Age_range, sort = TRUE)
 ```
+```{r}
+ethnicityyearly %>%
+  count(Type)
+
+totalstoppedwestmid <- 3545 + 16864
+
+totalstoppedwestmid
+```
+
+
+
 # Export data
 
 ```{r}
-write.csv(x=ethnicityyearly, file="westmidlandsethnicity")
+write.csv(x=ethnicityyearly, file="westmidlandsethnicity.csv")
 ```
 
 # Removing the unwanted ethnicities
@@ -174,7 +185,11 @@ asian_only
 ```{r}
 asian_only %>%
   count(Type)
+
+asianstoppedwestmid <- 1438 + 4437
 #1438 + 4437 = 5875
+
+asianstoppedwestmid / totalstoppedwestmid * 100
 ```
 
 ```{r}
@@ -198,7 +213,9 @@ asian_only %>%
 ```
 
 
+```{r}
 
+```
 
 
 
