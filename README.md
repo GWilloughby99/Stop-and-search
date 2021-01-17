@@ -14,6 +14,6 @@ The markdowns are publically accessible, as well as the data which can be [found
 
 I strive to be fair and balanced as a journalist. This involves allowing others to view the data and see my methods. 
 
-The article achieves balance by allowing the respective forces a chance to justify, whilst at the same time, not make any assumptions about whether disproportionately exists acorss any other force.
+The article achieves balance by allowing the respective forces a chance to justify, whilst at the same time, not make any assumptions about whether disproportionately exists across any other force.
 
 Further analysis is required to make national claims.
