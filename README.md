@@ -2,7 +2,7 @@
 
 This repository contains the r markdowns and graphics used in my stop and search article.
 
-The article can be read [here](https://gwilloughby99.github.io/2020-01-21-stopandsearch-analysis/)
+The article can be read [here](https://gwilloughby99.github.io/2021-01-21-stopandsearch-analysis/)
 
 # Analysis and editorial choices
 
